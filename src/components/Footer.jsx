@@ -6,6 +6,5 @@ export default function Footer(){
             <p>This is a footer</p>
         </sektion>
 
-
     )
 }
