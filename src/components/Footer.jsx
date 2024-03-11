@@ -7,4 +7,4 @@ export default function Footer(){
         </sektion>
 
     )
-}
+}3  
